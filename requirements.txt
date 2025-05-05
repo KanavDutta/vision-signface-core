@@ -1,5 +1,3 @@
 opencv-python
-mediapipe
-tensorflow
+cvzone
 numpy
-jupyter

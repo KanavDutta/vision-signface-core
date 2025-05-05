@@ -2,12 +2,7 @@
 
 A sleek, minimal real-time hand gesture recognition app using Python, OpenCV, and [CVZone](https://github.com/cvzone/cvzone). No training required — just launch and detect gestures like 👊 ✋ ✌️ 👍.
 
----
 
-## 📸 Demo
-
-![demo](assets/demo.gif)  
-<sub><sup>(Optional — add a 5-second screen recording here!)</sup></sub>
 
 ---
 
